@@ -3,7 +3,7 @@
     numbers
     strings
     booleans
-    symbol
+    symbol (peculiar data type, kept private and for internal use)
     null
     undefined 
 
