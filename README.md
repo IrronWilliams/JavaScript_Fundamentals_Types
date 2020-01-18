@@ -1,1 +1,1 @@
-JavaScript Fundamental exercises. 
+JavaScript fundamental exercises. 
